@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elizabthpazp
 - 👀 I’m interested in la programacion
-- 🌱 I’m currently learning Android y Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on proyectos
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  elizabethpazp695@gmail.com
