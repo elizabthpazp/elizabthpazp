@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @elizabthpazp
+### Hi there 👋<h2> I'm Elizabeth de la Paz</h2>
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" />
+
+## I'm a Software Engineering 
+
 - 👀 I’m interested in the programming
-- 🌱 I’m currently learning JavaScript
+- 📚 I’m currently learning Frontend technologies
 - 💞️ I’m looking to collaborate on proyects
 - 📫 How to reach me  elizabethpazp695@gmail.com
 
