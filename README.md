@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Elizabeth de la Paz</h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6" />
 
 ## I'm a Software Engineering 
 
