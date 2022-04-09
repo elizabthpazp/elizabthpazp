@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Elizabeth de la Paz</h2>
 
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6" />
+<iframe align="right" src="https://giphy.com/embed/Ho8klqe5oPLa8g6BNe" width="480" height="160px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-Ho8klqe5oPLa8g6BNe"></a></p>
 
 ## I'm a Software Engineering 
 
