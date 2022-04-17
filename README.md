@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Elizabeth de la Paz</h2>
+### Hi there 👋🏼<h2> I'm Elizabeth de la Paz</h2>
 
 <img align="right" alt="GIF" height="300px" width="310px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.lovestoblog.com"/>
 
