@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in the programming
 - 📚 I’m currently learning Frontend technologies
-- 💞️ I’m looking to collaborate on proyects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me  elizabethpazp695@gmail.com
 
 <!---
