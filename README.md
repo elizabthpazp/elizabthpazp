@@ -18,7 +18,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" height="200px" width="210px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.github.io"/>
+<img align="right" alt="GIF" height="200px" width="210px" src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" href="https://elizabthpazp.github.io"/>
 
 <p>
     <a href="https://skillicons.dev">
