@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
-<div>
-<h2> I'm Elizabeth de la Paz &#8203 &#8203
+<h2>
+ I'm Elizabeth de la Paz &#8203 &#8203
 	<a href="https://t.me/elizabthpazp">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
@@ -8,13 +8,13 @@
 		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
 	</a>
   <a href="https://elizabthpazp.github.io">
-		<img width="20px" src="https://simpleicons.now.sh/website/4c5861" />
+		<img width="20px" src="https://simpleicons.now.sh/circle/4c5861" />
 	</a>
-</h2>
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;and+Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
-</div>
+</h2>
 
 <img align="right" alt="GIF" height="300px" width="310px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.github.io"/>
 
@@ -28,7 +28,8 @@
 
 <h3>🛠 Tech Skills</h3>
 
-- 💻 &nbsp; C# | ASP.NET | Java | HTML | CSS | JavaScript/TypeScript | VueJS | NuxtJS | ReactJS | MySQL | TypeORM | PostgreSQL
+- 💻 &nbsp; C# | Java | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS 
+- 💻 &nbsp; ASP.NET | MySQL | TypeORM | PostgreSQL | Git | Postman API
 - 🔎 &nbsp; SEO | Digital Marketing
 - ⚙️ &nbsp; Visual Studio Code
 
