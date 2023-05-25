@@ -1,13 +1,13 @@
 ### Hi there 👋🏼
 <h2>
  I'm Elizabeth de la Paz &#8203 &#8203
-	<a href="https://t.me/elizabthpazp">
+	<a href="https://t.me/elizabthpazp" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
-	<a href="https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/">
+	<a href="https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
 	</a>
-        <a href="https://elizabthpazp.github.io">
+        <a href="https://elizabthpazp.github.io" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/figshare/4c5861" />
 	</a>
 	<a href="mailto:elizabethpazp695@gmail.com">
@@ -20,6 +20,11 @@
 
 <img align="right" alt="GIF" height="300px" width="310px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.github.io"/>
 
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dotnet,cs,vue,nuxt,react" />
+    </a>
+</p>
 </h2>
 
 <h3> 🤓 About Me </h3>
