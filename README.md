@@ -33,17 +33,14 @@
 - 🎓 &nbsp; I studied software engineering at the Technological University of Havana "CUJAE".
 - ❤️ &nbsp; I am passionate about Front-end technologies. 
 - 🤝🏻 &nbsp; Open for project collaboration. 
-
-<br/> 
+ 
 
 <h3>🛠 Tech Skills</h3>
 
 - 💻 &nbsp; C# | Java | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS 
 - 💻 &nbsp; ASP.NET | MySQL | TypeORM | PostgreSQL | Git | Postman API
 - 🔎 &nbsp; SEO | Digital Marketing
-- ⚙️ &nbsp; Visual Studio Code
-
-<br/> 
+- ⚙️ &nbsp; Visual Studio Code 
 
 ### 📫🤝🏻 Connect with Me
 
