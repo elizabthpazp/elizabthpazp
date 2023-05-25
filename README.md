@@ -1,4 +1,5 @@
 ### Hi there 👋🏼
+<div>
 <h2> I'm Elizabeth de la Paz &#8203 &#8203
 	<a href="https://t.me/elizabthpazp">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
@@ -13,20 +14,25 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;and+Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
+</div>
 
 <img align="right" alt="GIF" height="300px" width="310px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.github.io"/>
 
-## I'm a Software Engineering 
 
-- 👀 I’m interested in the programming
-- 📚 I’m currently learning Frontend technologies
-- 💞️ 
-- 📫 How to reach me  elizabethpazp695@gmail.com
+<h3> 🤓 About Me </h3>
 
-<!---
-elizabthpazp/elizabthpazp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💡 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; I studied software engineering at the Technological University of Havana "CUJAE".
+- ❤️ &nbsp; I am passionate about Front-end technologies. 
+- 🤝🏻 &nbsp; Open for project collaboration. 
+
+<h3>🛠 Tech Skills</h3>
+
+- 💻 &nbsp; C# | ASP.NET | Java | HTML | CSS | JavaScript/TypeScript | VueJS | NuxtJS | ReactJS | MySQL | TypeORM | PostgreSQL
+- 🔎 &nbsp; SEO | Digital Marketing
+- ⚙️ &nbsp; Visual Studio Code
+
+
 
 ### 📫🤝🏻 Connect with Me
 
