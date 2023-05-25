@@ -7,8 +7,11 @@
 	<a href="https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/">
 		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
 	</a>
-  <a href="https://elizabthpazp.github.io">
-		<img width="20px" src="https://simpleicons.now.sh/circle/4c5861" />
+        <a href="https://elizabthpazp.github.io">
+		<img width="20px" src="https://simpleicons.now.sh/figshare/4c5861" />
+	</a>
+	<a href="mailto:elizabethpazp695@gmail.com">
+		<img width="20px" src="https://simpleicons.now.sh/maildotru/4c5861" />
 	</a>
 <br/>
 <br/>	
@@ -43,9 +46,6 @@
  - Contact Me on [Email](elizabethpazp695@gmail.com) 💌
  - My website [Website](https://elizabthpazp.github.io) 💜
 
-
-
-
-
+<br/> <br/> 
 
  ✨ From [elizabthpazp](https://github.com/elizabthpazp) ✨
