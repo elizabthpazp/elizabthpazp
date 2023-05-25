@@ -47,8 +47,8 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/)<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- - Contact Me on [Discord]() <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a> - Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/)
+<img src="https://skillicons.dev/icons?i=discord" /></a> - Contact Me on [Discord]() <a href="https://skillicons.dev">
  - Contact Me on [Email](elizabethpazp695@gmail.com) 💌
  - My website [Website](https://elizabthpazp.github.io) 💜
 
