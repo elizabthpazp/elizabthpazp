@@ -16,7 +16,7 @@
 <br/>
 <br/>	
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;and+Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" height="300px" width="310px" src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" href="https://elizabthpazp.github.io"/>
 
@@ -48,10 +48,10 @@
 ### 📫🤝🏻 Connect with Me
 
  <a href="[https://skillicons.dev](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/)"><img width="25" height="25" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/) &nbsp;&nbsp;
-<a href="https://skillicons.dev"><img width="25" height="25" src="https://skillicons.dev/icons?i=discord" /></a>&nbsp; Contact Me on [Discord]() 
+<a href="https://discordapp.com/users/1062024233577893918"><img width="25" height="25" src="https://skillicons.dev/icons?i=discord" /></a>&nbsp; Contact Me on [Discord](https://discordapp.com/users/1062024233577893918) 
  - Contact Me on [Email](elizabethpazp695@gmail.com) 💌
  - My website [Website](https://elizabthpazp.github.io) 💜
 
-<br/> <br/> 
+<br/>  
 
  ✨ From [elizabthpazp](https://github.com/elizabthpazp) ✨
