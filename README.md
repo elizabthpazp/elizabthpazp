@@ -10,9 +10,10 @@
   <a href="https://elizabthpazp.github.io">
 		<img width="20px" src="https://simpleicons.now.sh/circle/4c5861" />
 	</a>
+<br/>
+<br/>	
 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;and+Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;and+Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
 </h2>
 
@@ -26,6 +27,9 @@
 - ❤️ &nbsp; I am passionate about Front-end technologies. 
 - 🤝🏻 &nbsp; Open for project collaboration. 
 
+<br/>
+<br/>	
+
 <h3>🛠 Tech Skills</h3>
 
 - 💻 &nbsp; C# | Java | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS 
@@ -33,7 +37,8 @@
 - 🔎 &nbsp; SEO | Digital Marketing
 - ⚙️ &nbsp; Visual Studio Code
 
-
+<br/>
+<br/>	
 
 ### 📫🤝🏻 Connect with Me
 
