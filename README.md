@@ -18,7 +18,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" height="250px" width="260px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elizabthpazp.github.io"/>
+<img align="right" alt="GIF" height="250px" width="260px" style="margin-top:-100px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elizabthpazp.github.io"/>
 
 <p>
     <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
 
 <h3>🛠 Tech Skills</h3>
 
-- 💻 &nbsp; C# | Java | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS 
+- 💻 &nbsp; C# | Java | C++ | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS | NextJS 
 - 💻 &nbsp; ASP.NET | MySQL | TypeORM | PostgreSQL | Git | Postman API
 - 🔎 &nbsp; SEO | Digital Marketing
 - ⚙️ &nbsp; Visual Studio Code 
