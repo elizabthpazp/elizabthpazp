@@ -30,7 +30,7 @@
 <h3> 🤓 About Me </h3>
 
 - 💡 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I studied software engineering at the Technological University of Havana "CUJAE".
+- 🎓 &nbsp; I graduated in software engineering at the Technological University of Havana "CUJAE".
 - ❤️ &nbsp; I am passionate about Front-end technologies. 
 - 🤝🏻 &nbsp; Open for project collaboration. 
  
