@@ -37,7 +37,7 @@
 
 <h3>🛠 Tech Skills</h3>
 
-- 💻 &nbsp; C# | Java | C++ | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS | NextJS 
+- 💻 &nbsp; C# | Java | C++ | Python | HTML | CSS | JavaScript | TypeScript | VueJS | NuxtJS | ReactJS | NextJS 
 - 💻 &nbsp; .NET framework | ASP.NET Core | MySQL | PostgreSQL | TypeORM | Git | Postman API
 - 🔎 &nbsp; SEO | Digital Marketing
 - ⚙️ &nbsp; Visual Studio Code 
