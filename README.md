@@ -50,8 +50,6 @@
  - My website [Website](https://elizabthpazp.github.io) 💜
 
 <br/>  
-
- ✨ From [elizabthpazp](https://github.com/elizabthpazp) ✨
-
-> [!FROM]
-> Hello World!
+ 
+> [!IMPORTANT]
+> ✨ From [elizabthpazp](https://github.com/elizabthpazp) ✨
