@@ -48,6 +48,7 @@
 <a href="https://discordapp.com/users/1062024233577893918"><img width="25" height="25" src="https://skillicons.dev/icons?i=discord" /></a>&nbsp; Contact Me on [Discord](https://discordapp.com/users/1062024233577893918) 
  - Contact Me on [Email](elizabethpazp695@gmail.com) 💌
  - My website [Website](https://elizabthpazp.github.io) 💜
+ - My Blog [Blog](https://blog-elizabthpazp.vercel.app) 💜
 
 <br/>  
  
