@@ -47,7 +47,7 @@
  <a href="[https://skillicons.dev](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/)"><img width="25" height="25" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/) &nbsp;&nbsp;
 <a href="https://discordapp.com/users/1062024233577893918"><img width="25" height="25" src="https://skillicons.dev/icons?i=discord" /></a>&nbsp; Contact Me on [Discord](https://discordapp.com/users/1062024233577893918) 
  - Contact Me on [Email](elizabethpazp695@gmail.com) 💌
- - My website [Website](https://elizabthpazp.github.io) 💜
+ - My website [Website](https://elijs.dev/) 💜
  - My Blog [Blog](https://blog-elizabthpazp.vercel.app) 💜
 
 <br/>  
