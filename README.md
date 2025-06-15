@@ -13,10 +13,11 @@
 	<a href="mailto:elizabethpazp695@gmail.com">
 		<img width="20px" src="https://simpleicons.now.sh/maildotru/4c5861" />
 	</a>
+
+ <img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elizabthpazp.github.io"/>
 <br/>
 <br/>	
 
-<img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elizabthpazp.github.io"/>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;I+love+the+programming;I'm+always+expanding+my+tech+skills!)](https://git.io/typing-svg)
 
 
